@@ -4,9 +4,9 @@
  **Github** [github.com/atticusbaker](https://github.com/atticusbaker)
 
  <img 
-  src="/img/IMG_4979.heic" 
+  src="/img/IMG_4979.jpg" 
   alt="Here I am" 
-  height="100rem"
+  height="300rem"
   style="border: dashed 2px black;">
 ## Educational and Professional Background
 - **Degree:** 3rd Year Geophysics and GIS student at CU Boulder
