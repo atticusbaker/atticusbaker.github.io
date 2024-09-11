@@ -15,6 +15,7 @@
     - Developed tools and methods to improve the quality of published marine geophysical data.
 
 ## Map of my School
+This is a map of Main Campus at CU Boulder. This is where I spend most of my time as a student, earning my degrees in Geophysics and Geography. The significance of this map shows my commitment to this school, and the many wonderful opportunities that it offers me, as well as some killer views of the mountains.
 <embed type="text/html" src="cub_abaker.html" width="600" height="600">
 
 ## About Me
